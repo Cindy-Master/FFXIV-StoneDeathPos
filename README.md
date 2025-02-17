@@ -9,10 +9,10 @@
 
 ## 4.刷新
 
-[油猴地址](https://greasyfork.org/zh-CN/scripts/527193-%E6%9B%BF%E6%8D%A2api%E8%BF%94%E5%9B%9E%E5%9D%90%E6%A0%87-%E6%94%AF%E6%8C%81%E4%B8%8A%E4%BC%A0txt%E5%9D%90%E6%A0%87%E6%96%87%E4%BB%B6%E5%B9%B6%E6%8C%81%E4%B9%85%E5%8C%96)
+[油猴地址](https://greasyfork.org/zh-CN/scripts/527193)
 
 ```
-https://greasyfork.org/zh-CN/scripts/527193-%E6%9B%BF%E6%8D%A2api%E8%BF%94%E5%9B%9E%E5%9D%90%E6%A0%87-%E6%94%AF%E6%8C%81%E4%B8%8A%E4%BC%A0txt%E5%9D%90%E6%A0%87%E6%96%87%E4%BB%B6%E5%B9%B6%E6%8C%81%E4%B9%85%E5%8C%96
+https://greasyfork.org/zh-CN/scripts/527193
 ```
 ## 效果图
 
